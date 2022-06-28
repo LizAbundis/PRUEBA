@@ -10,7 +10,7 @@ main {
 }
 
 #menuRegistro{
-	background-image: url("/src/imagenes/VengaCleanTransparente.png");
+	background-image: url("/VengadoresDeLaLimpieza/src/imagenes/VengaCleanTransparente.png");
 	background-attachment: cover;
 	background-repeat: no-repeat;
 	background-size: 26%;
