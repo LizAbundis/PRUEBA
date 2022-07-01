@@ -32,18 +32,18 @@ function addItem(item){
     itemsContainer.innerHTML += itemHTML;
 }
 
-addItem({'nombre':'Paquete Basico, hasta 70m²',
-    'img':'/VengadoresDeLaLimpieza/src/imagenes/paquete1.png',
+addItem({'nombre':'Paquete Basic, hasta 70m²',
+    'img':'/src/imagenes/paquete1.png',
     'precio': '$1,499.00',
     'sku':'SKU: PAENT10'});
 
 addItem({'nombre':'Paquete Deluxe, hasta 110m²',
-    'img':'/VengadoresDeLaLimpieza/src/imagenes/paquete2.png',
+    'img':'/src/imagenes/paquete2.png',
     'precio': '$2,599.00',
     'sku':'SKU: PAEME25'});
 
 addItem({'nombre':'Paquete Premium, hasta 200m²',
-    'img':'/VengadoresDeLaLimpieza/src/imagenes/paquete3.png',
+    'img':'/src/imagenes/paquete3.png',
     'precio': '$3,999.0',
     'sku':'SKU: PASUM40'});
 
