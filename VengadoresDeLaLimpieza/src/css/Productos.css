@@ -295,3 +295,14 @@ hr {
     position: absolute;
     bottom: 0;
 }
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}

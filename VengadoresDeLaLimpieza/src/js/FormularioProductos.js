@@ -71,7 +71,7 @@ botonEnviar.addEventListener("click", (event) =>{
 	sku.value = "";
 	precio.value = "";
 	imagen.value = "";
-	vis.src = "";
+	vis.src = "/src/imagenes/pix_white.png";
 	nombre.focus();
 })
 

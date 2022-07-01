@@ -147,6 +147,7 @@ hr {
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
+    justify-content: center;
 }
 
 .aco{
@@ -287,9 +288,20 @@ footer {
 
 #divPreguntasFre{
     margin-left: 40px;
+    margin-right: 40px;
+   
 }
 
 #nota{
-    font-size: 15px;
+    font-size: 18px;
     text-align: center;
+}
+
+.preguntas{
+    background-color: rgb(96, 186, 155);
+    text-align: center;
+}
+.tabla{
+    border-radius: 0px;
+    margin: 5%;
 }
